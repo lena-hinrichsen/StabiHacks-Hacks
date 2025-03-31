@@ -1,0 +1,39 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN745161839\0002_Page1_Block113.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN745161839\0002_Page1_Block2.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN745161839\0005_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN745161839\0006_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":4374, "name":"umbrella", "relative_coordinates":{"center_x":0.570223, "center_y":0.442112, "width":0.705184, "height":0.496526}, "confidence":0.901651}, 
+  {"class_id":3248, "name":"wall clock", "relative_coordinates":{"center_x":0.560226, "center_y":0.506097, "width":0.550198, "height":0.408290}, "confidence":0.747770}, 
+  {"class_id":1054, "name":"instrumentality", "relative_coordinates":{"center_x":0.559726, "center_y":0.556204, "width":0.624277, "height":0.476819}, "confidence":0.824725}
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN745161839\0009_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}
+]

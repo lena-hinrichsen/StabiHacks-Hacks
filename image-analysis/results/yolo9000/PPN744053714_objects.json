@@ -1,0 +1,245 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0001_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0002_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0003_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0004_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0005_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0006_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":8047, "name":"vulture", "relative_coordinates":{"center_x":0.580260, "center_y":0.286181, "width":0.359310, "height":0.290157}, "confidence":0.844207}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.260897, "center_y":0.795906, "width":0.211569, "height":0.188382}, "confidence":0.992496}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.740631, "center_y":0.783255, "width":0.332203, "height":0.198920}, "confidence":0.859516}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.799260, "center_y":0.560275, "width":0.178471, "height":0.222159}, "confidence":0.996528}
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0033_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":8068, "name":"falcon", "relative_coordinates":{"center_x":0.740617, "center_y":0.667087, "width":0.193982, "height":0.300248}, "confidence":0.694670}, 
+  {"class_id":8068, "name":"falcon", "relative_coordinates":{"center_x":0.560762, "center_y":0.749713, "width":0.210236, "height":0.291941}, "confidence":0.506424}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.283150, "center_y":0.797759, "width":0.209055, "height":0.222102}, "confidence":0.521383}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.490456, "center_y":0.566579, "width":0.181168, "height":0.226270}, "confidence":0.997419}, 
+  {"class_id":8048, "name":"hawk", "relative_coordinates":{"center_x":0.422287, "center_y":0.210428, "width":0.251699, "height":0.196240}, "confidence":0.511105}, 
+  {"class_id":8048, "name":"hawk", "relative_coordinates":{"center_x":0.521691, "center_y":0.747244, "width":0.192627, "height":0.286998}, "confidence":0.692357}, 
+  {"class_id":7569, "name":"bird of prey", "relative_coordinates":{"center_x":0.214798, "center_y":0.251559, "width":0.205949, "height":0.265334}, "confidence":0.588203}, 
+  {"class_id":8048, "name":"hawk", "relative_coordinates":{"center_x":0.244870, "center_y":0.255638, "width":0.257246, "height":0.255632}, "confidence":0.708686}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0034_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0043_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":7814, "name":"oscine", "relative_coordinates":{"center_x":0.716520, "center_y":0.712469, "width":0.193038, "height":0.223612}, "confidence":0.723210}
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0044_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0061_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.269489, "center_y":0.645253, "width":0.188237, "height":0.182534}, "confidence":0.997747}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.490682, "center_y":0.814825, "width":0.328954, "height":0.124494}, "confidence":0.753328}
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0062_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0071_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":8143, "name":"pigeon", "relative_coordinates":{"center_x":0.215733, "center_y":0.183422, "width":0.167605, "height":0.155277}, "confidence":0.528665}, 
+  {"class_id":7814, "name":"oscine", "relative_coordinates":{"center_x":0.252168, "center_y":0.188476, "width":0.187869, "height":0.148548}, "confidence":0.628847}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.730628, "center_y":0.192921, "width":0.182709, "height":0.149698}, "confidence":0.996464}
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0072_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0081_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.718952, "center_y":0.632947, "width":0.192578, "height":0.279387}, "confidence":0.754021}
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0082_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0091_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":8157, "name":"pheasant", "relative_coordinates":{"center_x":0.716602, "center_y":0.793911, "width":0.179601, "height":0.198821}, "confidence":0.522404}, 
+  {"class_id":5177, "name":"person", "relative_coordinates":{"center_x":0.730488, "center_y":0.245200, "width":0.193385, "height":0.251789}, "confidence":0.532962}, 
+  {"class_id":7814, "name":"oscine", "relative_coordinates":{"center_x":0.724657, "center_y":0.557023, "width":0.156305, "height":0.167966}, "confidence":0.709659}
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0092_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0101_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":7814, "name":"oscine", "relative_coordinates":{"center_x":0.788145, "center_y":0.804218, "width":0.126979, "height":0.135477}, "confidence":0.951962}, 
+  {"class_id":7574, "name":"gallinaceous bird", "relative_coordinates":{"center_x":0.439058, "center_y":0.238537, "width":0.264837, "height":0.254065}, "confidence":0.543829}, 
+  {"class_id":7574, "name":"gallinaceous bird", "relative_coordinates":{"center_x":0.736359, "center_y":0.254799, "width":0.191334, "height":0.236427}, "confidence":0.538465}, 
+  {"class_id":7562, "name":"aquatic bird", "relative_coordinates":{"center_x":0.275497, "center_y":0.397596, "width":0.197070, "height":0.228949}, "confidence":0.585525}, 
+  {"class_id":7562, "name":"aquatic bird", "relative_coordinates":{"center_x":0.514535, "center_y":0.428917, "width":0.220204, "height":0.246158}, "confidence":0.861198}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.792498, "center_y":0.807869, "width":0.125698, "height":0.160526}, "confidence":0.999551}, 
+  {"class_id":7574, "name":"gallinaceous bird", "relative_coordinates":{"center_x":0.200226, "center_y":0.249509, "width":0.135887, "height":0.240104}, "confidence":0.627924}, 
+  {"class_id":7756, "name":"goose", "relative_coordinates":{"center_x":0.256129, "center_y":0.721432, "width":0.217837, "height":0.284838}, "confidence":0.525740}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0102_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0111_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":7757, "name":"duck", "relative_coordinates":{"center_x":0.253142, "center_y":0.369123, "width":0.235760, "height":0.200479}, "confidence":0.560056}, 
+  {"class_id":7756, "name":"goose", "relative_coordinates":{"center_x":0.202332, "center_y":0.171916, "width":0.159401, "height":0.163863}, "confidence":0.630569}, 
+  {"class_id":7580, "name":"wading bird", "relative_coordinates":{"center_x":0.738558, "center_y":0.432030, "width":0.198098, "height":0.200290}, "confidence":0.544489}, 
+  {"class_id":7755, "name":"anseriform bird", "relative_coordinates":{"center_x":0.562921, "center_y":0.656245, "width":0.172802, "height":0.245901}, "confidence":0.526367}, 
+  {"class_id":7756, "name":"goose", "relative_coordinates":{"center_x":0.731706, "center_y":0.216516, "width":0.236969, "height":0.175520}, "confidence":0.799197}, 
+  {"class_id":7580, "name":"wading bird", "relative_coordinates":{"center_x":0.715354, "center_y":0.723938, "width":0.177150, "height":0.246334}, "confidence":0.599430}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.507805, "center_y":0.643307, "width":0.221300, "height":0.231678}, "confidence":0.803332}, 
+  {"class_id":7562, "name":"aquatic bird", "relative_coordinates":{"center_x":0.209915, "center_y":0.735295, "width":0.136246, "height":0.208875}, "confidence":0.790237}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0112_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0121_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":7814, "name":"oscine", "relative_coordinates":{"center_x":0.719234, "center_y":0.199946, "width":0.214202, "height":0.154440}, "confidence":0.568501}, 
+  {"class_id":7574, "name":"gallinaceous bird", "relative_coordinates":{"center_x":0.194359, "center_y":0.643195, "width":0.139017, "height":0.106827}, "confidence":0.838519}, 
+  {"class_id":6527, "name":"bird", "relative_coordinates":{"center_x":0.203728, "center_y":0.644076, "width":0.163090, "height":0.159115}, "confidence":0.991382}
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0122_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0131_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":8128, "name":"game bird", "relative_coordinates":{"center_x":0.264992, "center_y":0.398214, "width":0.213776, "height":0.246461}, "confidence":0.605589}, 
+  {"class_id":7757, "name":"duck", "relative_coordinates":{"center_x":0.662788, "center_y":0.342532, "width":0.221316, "height":0.183491}, "confidence":0.541112}, 
+  {"class_id":7574, "name":"gallinaceous bird", "relative_coordinates":{"center_x":0.212395, "center_y":0.396854, "width":0.167305, "height":0.295257}, "confidence":0.623162}, 
+  {"class_id":7562, "name":"aquatic bird", "relative_coordinates":{"center_x":0.207453, "center_y":0.361692, "width":0.166410, "height":0.223261}, "confidence":0.501127}, 
+  {"class_id":7755, "name":"anseriform bird", "relative_coordinates":{"center_x":0.221421, "center_y":0.726949, "width":0.203701, "height":0.192345}, "confidence":0.572094}, 
+  {"class_id":7562, "name":"aquatic bird", "relative_coordinates":{"center_x":0.729257, "center_y":0.494585, "width":0.154958, "height":0.179710}, "confidence":0.689679}, 
+  {"class_id":7757, "name":"duck", "relative_coordinates":{"center_x":0.249460, "center_y":0.731475, "width":0.201794, "height":0.219235}, "confidence":0.581296}, 
+  {"class_id":7583, "name":"seabird", "relative_coordinates":{"center_x":0.414619, "center_y":0.795840, "width":0.185686, "height":0.205595}, "confidence":0.697702}, 
+  {"class_id":7755, "name":"anseriform bird", "relative_coordinates":{"center_x":0.740526, "center_y":0.187374, "width":0.221838, "height":0.120195}, "confidence":0.664429}, 
+  {"class_id":7574, "name":"gallinaceous bird", "relative_coordinates":{"center_x":0.736183, "center_y":0.183629, "width":0.170741, "height":0.064463}, "confidence":0.629170}
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0132_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0147_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":28, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0148_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":29, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN744053714\0149_Page1_Block8.jpg", 
+ "objects": [ 
+
+ ] 
+}
+]

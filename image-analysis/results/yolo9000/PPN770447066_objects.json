@@ -1,0 +1,210 @@
+[
+{
+ "frame_id":1, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0001_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":7274, "name":"beef", "relative_coordinates":{"center_x":0.636102, "center_y":0.678470, "width":0.271029, "height":0.191751}, "confidence":0.768334}, 
+  {"class_id":7255, "name":"sheep", "relative_coordinates":{"center_x":0.517306, "center_y":0.675588, "width":0.201544, "height":0.245571}, "confidence":0.851275}
+ ] 
+}, 
+{
+ "frame_id":2, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0001_Page1_Block40.jpg", 
+ "objects": [ 
+  {"class_id":7274, "name":"beef", "relative_coordinates":{"center_x":0.640955, "center_y":0.731328, "width":0.343717, "height":0.275562}, "confidence":0.780671}, 
+  {"class_id":7255, "name":"sheep", "relative_coordinates":{"center_x":0.330666, "center_y":0.724610, "width":0.156998, "height":0.222938}, "confidence":0.542153}, 
+  {"class_id":6792, "name":"ungulate", "relative_coordinates":{"center_x":0.269087, "center_y":0.727783, "width":0.170269, "height":0.254352}, "confidence":0.546846}, 
+  {"class_id":5177, "name":"person", "relative_coordinates":{"center_x":0.178641, "center_y":0.746859, "width":0.145052, "height":0.235315}, "confidence":0.771696}, 
+  {"class_id":7222, "name":"ruminant", "relative_coordinates":{"center_x":0.131730, "center_y":0.749923, "width":0.138242, "height":0.228386}, "confidence":0.550718}, 
+  {"class_id":7255, "name":"sheep", "relative_coordinates":{"center_x":0.499005, "center_y":0.679066, "width":0.246227, "height":0.234890}, "confidence":0.869641}, 
+  {"class_id":7271, "name":"cattle", "relative_coordinates":{"center_x":0.575596, "center_y":0.722640, "width":0.441707, "height":0.304384}, "confidence":0.776473}
+ ] 
+}, 
+{
+ "frame_id":3, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0002_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":4, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0003_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":5, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0004_Page1_Block2.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":6, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0005_Page1_Block6.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":7, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0017_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":7274, "name":"beef", "relative_coordinates":{"center_x":0.398711, "center_y":0.608523, "width":0.546090, "height":0.245319}, "confidence":0.566998}, 
+  {"class_id":7271, "name":"cattle", "relative_coordinates":{"center_x":0.362462, "center_y":0.608301, "width":0.407876, "height":0.217671}, "confidence":0.873409}, 
+  {"class_id":7233, "name":"giraffe", "relative_coordinates":{"center_x":0.640781, "center_y":0.638167, "width":0.085597, "height":0.133414}, "confidence":0.607942}
+ ] 
+}, 
+{
+ "frame_id":8, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0017_Page1_Block19.jpg", 
+ "objects": [ 
+  {"class_id":7279, "name":"cow", "relative_coordinates":{"center_x":0.362215, "center_y":0.645932, "width":0.652193, "height":0.367455}, "confidence":0.524398}, 
+  {"class_id":7271, "name":"cattle", "relative_coordinates":{"center_x":0.732815, "center_y":0.683354, "width":0.254172, "height":0.205829}, "confidence":0.522485}, 
+  {"class_id":7274, "name":"beef", "relative_coordinates":{"center_x":0.407446, "center_y":0.661395, "width":0.606346, "height":0.309746}, "confidence":0.688043}, 
+  {"class_id":7271, "name":"cattle", "relative_coordinates":{"center_x":0.410153, "center_y":0.651497, "width":0.667328, "height":0.367673}, "confidence":0.845208}, 
+  {"class_id":6792, "name":"ungulate", "relative_coordinates":{"center_x":0.724284, "center_y":0.701400, "width":0.240327, "height":0.216878}, "confidence":0.623816}
+ ] 
+}, 
+{
+ "frame_id":9, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0018_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":10, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0025_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":7271, "name":"cattle", "relative_coordinates":{"center_x":0.341789, "center_y":0.642171, "width":0.259510, "height":0.277246}, "confidence":0.649200}, 
+  {"class_id":7255, "name":"sheep", "relative_coordinates":{"center_x":0.584590, "center_y":0.638484, "width":0.134338, "height":0.267742}, "confidence":0.520740}, 
+  {"class_id":7255, "name":"sheep", "relative_coordinates":{"center_x":0.500273, "center_y":0.595912, "width":0.143866, "height":0.249073}, "confidence":0.600836}, 
+  {"class_id":7232, "name":"bovid", "relative_coordinates":{"center_x":0.649225, "center_y":0.643481, "width":0.138298, "height":0.227301}, "confidence":0.542954}
+ ] 
+}, 
+{
+ "frame_id":11, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0026_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":12, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0030_Page1_Block9.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":13, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0038_Page1_Block13.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":14, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0039_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":6519, "name":"vertebrate", "relative_coordinates":{"center_x":0.574541, "center_y":0.502834, "width":0.494651, "height":0.691373}, "confidence":0.650490}, 
+  {"class_id":2429, "name":"furniture", "relative_coordinates":{"center_x":0.508010, "center_y":0.570644, "width":0.705400, "height":0.797239}, "confidence":0.527296}, 
+  {"class_id":1041, "name":"artifact", "relative_coordinates":{"center_x":0.574198, "center_y":0.566661, "width":0.564075, "height":0.787929}, "confidence":0.612353}
+ ] 
+}, 
+{
+ "frame_id":15, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0040_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":16, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0043_Page1_Block8.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":17, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0050_Page1_Block12.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":18, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0083_Page1_Block9.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":19, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0101_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":6912, "name":"dog", "relative_coordinates":{"center_x":0.495752, "center_y":0.353833, "width":0.184932, "height":0.211365}, "confidence":0.682282}, 
+  {"class_id":6781, "name":"carnivore", "relative_coordinates":{"center_x":0.408213, "center_y":0.518259, "width":0.211623, "height":0.244321}, "confidence":0.744366}
+ ] 
+}, 
+{
+ "frame_id":20, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0102_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":21, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0121_Page1_Block1.jpg", 
+ "objects": [ 
+  {"class_id":1041, "name":"artifact", "relative_coordinates":{"center_x":0.727306, "center_y":0.495981, "width":0.465286, "height":0.876179}, "confidence":0.739413}
+ ] 
+}, 
+{
+ "frame_id":22, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0122_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":23, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0128_Page1_Block17.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":24, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0131_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":25, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0132_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":26, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0133_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}, 
+{
+ "frame_id":27, 
+ "filename":"C:\Users\hinri\PycharmProjects\StabiHacks-master\opened_tars\sbbget_downloads\extracted_images\PPN770447066\0134_Page1_Block1.jpg", 
+ "objects": [ 
+
+ ] 
+}
+]

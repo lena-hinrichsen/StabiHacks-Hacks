@@ -1,7 +1,7 @@
 sbbget:
     # for testing purposes we try to download one historical illustrated childrens' playbook with OCR
     # this will download and create approx.  1.98 GB of test data
-    ppnListFile: "../ppn_lists/demo_document.csv"
+    ppnListFile: "../ppn_lists/diverse_ill_spielbuch.csv"
 
     # in case the PPN list contains PPNs without "PPN" prefix, it will be added. if a PPN starts with PPN as prefix the prefix will not be added.
     addPPNPrefix: True
