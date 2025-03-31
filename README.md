@@ -1,6 +1,6 @@
 # StabiHacks
 
-Fork of https://github.com/elektrobohemian/StabiHacks with a few adjustments plus object/text analysis
+Fork of https://github.com/elektrobohemian/StabiHacks with a few adjustments plus object/text analysis. Originally developed for a master's thesis (2021).
 
 Various utilities to deal with metadata and content provided by the Berlin State Library/Staatsbibliothek zu Berlin
 
