@@ -2,7 +2,9 @@
 
 Fork of https://github.com/elektrobohemian/StabiHacks with a few adjustments plus object/text analysis. Originally developed for a master's thesis (2021).
 
-Documentation of StabiHacks by David Zellhöfer (Documetnation for additional scripts is WIP).
+Documentation of StabiHacks by David Zellhöfer (Documetnation for additional scripts is WIP):
+
+
 Various utilities to deal with metadata and content provided by the Berlin State Library/Staatsbibliothek zu Berlin
 
 The scripts work together as illustrated below:
